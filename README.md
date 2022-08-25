@@ -33,7 +33,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 <a href="https://www.linkedin.com/in/erick-nascimento-1926a8231/">
-<img src="./github/linkedin.png" alt="linkedin" height="50"></a>
+<img src="./.github/linkedin.png" alt="linkedin" height="50"></a>
 <br />
 
 
