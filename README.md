@@ -22,13 +22,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### 🚀  Dependências
 
-- [Express.js]
-- [Mongoose]
-- [Bcryptjs]
-- [nodemon-devDependencies]
-- [MongoDB]
-- [hapi]
-- [JWT]
+- Express.js
+- Mongoose
+- Bcryptjs
+- nodemon(devDependencies)
+- MongoDB
+- hapi
+- JWT
 
 ---
 
