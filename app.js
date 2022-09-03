@@ -4,7 +4,9 @@ const routes = require('./src/routes/index.routes.js');
 const db = require('./src/config/config.js');
 
 const app = express();
-
+app.use('/', (req, res) =>{
+    res.send('Bem Vindo API')
+})
 app.use(express.json());
 
 routes(app);
